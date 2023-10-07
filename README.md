@@ -7,3 +7,5 @@
 [Программа преобразующая случайную матрицу, в сортированую по возрастанию сумму каждой строки случайной матрицы](NoNameWorkWithMatrix.cpp)  
   
 [Ускорения заполнения конфига Waypoint мода Skytils](WaypointSkytilsSetHelper.cpp)  
+  
+[Нечетный Кирилл](OddKirill.cpp)  
